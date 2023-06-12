@@ -1,0 +1,22 @@
+{
+    "name": "easypay/nftpay",
+    "description": "this is a option to nft pay sdk",
+    "homepage":"https://github.com/easypay/nftpay",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "curl/curl": ">7.19"
+    },
+    "autoload": {
+        "psr-4": {
+            "Easypay\\Nftpay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wzhw",
+            "email": "402710788@qq.com",
+            "homepage":"https://github.com/easypay/nftpay"
+        }
+    ]
+}
