@@ -4,6 +4,6 @@ class Test
 {
     function index()
     {
-        echo "test";
+        echo "this is a nft easy pay SDK test Demo";
     }
 }
