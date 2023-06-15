@@ -1,5 +1,5 @@
 <?php
-namespace Easypay\Nftpay;
+namespace Nfteasypay\Nftpay;
 class Test
 {
     function index()
